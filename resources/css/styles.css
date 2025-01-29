@@ -87,3 +87,27 @@ main {
 	text-decoration: none;
 	color: var(--Neon-Green);
 }
+@media (max-width: 475px) {
+	main {
+		margin: auto 0;
+		width: 90%;
+	}
+	.container {
+		font-size: 24px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 20px;
+		padding: 40px;
+		width: 100%;
+		background-color: var(--Dark-Grayish-Blue);
+		border-radius: 20px;
+	}
+	.divider-desktop {
+		display: none;
+	}
+	.divider-mobile {
+		display: block;
+		width: 100%;
+	}
+}
