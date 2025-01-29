@@ -53,8 +53,8 @@ main {
 .divider {
 	margin: 0 0 20px 0;
 }
-.divider-desktop {
-}
+/* .divider-desktop {
+} */
 .divider-mobile {
 	display: none;
 }
@@ -76,8 +76,8 @@ main {
 .dice-icon-button:hover {
 	box-shadow: 0 0 25px var(--Neon-Green);
 }
-.dice-icon {
-}
+/* .dice-icon {
+} */
 .attribution {
 	font-size: 11px;
 	text-align: center;
