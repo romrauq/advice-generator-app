@@ -1,0 +1,39 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+:root {
+	--Light-Cyan: hsl(193, 38%, 86%);
+	--Neon-Green: hsl(150, 100%, 66%);
+	--Grayish-Blue: hsl(217, 19%, 38%);
+	--Dark-Grayish-Blue: hsl(217, 19%, 24%);
+	--Dark-Blue: hsl(218, 23%, 16%);
+}
+@font-face {
+	font-family: Manrope;
+	src: url("../fonts/Manrope-VariableFont_wght.ttf");
+}
+body {
+}
+main {
+}
+.advice-count-text {
+}
+.advice-text {
+}
+.divider-desktop {
+}
+.divider-mobile {
+}
+.dice-icon-container {
+}
+.dice-icon {
+}
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
