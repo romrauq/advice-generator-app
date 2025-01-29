@@ -50,6 +50,9 @@ main {
 	text-align: center;
 	font-weight: 600;
 }
+.divider {
+	margin: 0 0 20px 0;
+}
 .divider-desktop {
 }
 .divider-mobile {
